@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Registration-form-LGM.git/static/css/main.a3783fd0.css",
+    "main.js": "/Registration-form-LGM.git/static/js/main.f4d22ec1.js",
+    "static/js/787.338366e2.chunk.js": "/Registration-form-LGM.git/static/js/787.338366e2.chunk.js",
+    "index.html": "/Registration-form-LGM.git/index.html",
+    "main.a3783fd0.css.map": "/Registration-form-LGM.git/static/css/main.a3783fd0.css.map",
+    "main.f4d22ec1.js.map": "/Registration-form-LGM.git/static/js/main.f4d22ec1.js.map",
+    "787.338366e2.chunk.js.map": "/Registration-form-LGM.git/static/js/787.338366e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3783fd0.css",
+    "static/js/main.f4d22ec1.js"
+  ]
+}
